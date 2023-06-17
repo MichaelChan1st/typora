@@ -1,8 +1,8 @@
 #!/bin/bash
 # 将之前未提交的提交掉
-git add .
-git commit -m "before typora"
-git push
+#git add .
+#git commit -m "before typora"
+#git push
 # 配置信息
 base_url="https://github.com/MichaelChan1st/typora/blob/main"
 
