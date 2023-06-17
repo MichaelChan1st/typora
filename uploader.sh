@@ -1,5 +1,6 @@
 #!/bin/bash
 # 将之前未提交的提交掉
+cd /Users/radicalism/Desktop/Notes/upload-pic/typora/
 git add .
 git commit -m "before typora"
 git push
